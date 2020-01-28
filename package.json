@@ -1,0 +1,11 @@
+{
+    "name": "arbntslint",
+    "version": "1.0.0",
+    "description": "arbnco typescript rules!",
+    "main": "tslint-base.json",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "arbnco",
+    "license": "MIT"
+}
