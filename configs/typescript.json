@@ -281,7 +281,6 @@
       true,
       "allow-fast-null-checks"
     ],
-    "no-empty": true,
     "no-sparse-arrays": true,
     "ban-comma-operator": true,
     "banana-in-box": true,
