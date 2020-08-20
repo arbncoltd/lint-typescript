@@ -155,7 +155,7 @@
       1000
     ],
     "max-line-length": [
-      true,
+      false,
       200
     ],
     "indent": [
