@@ -88,7 +88,7 @@
       "call-signature",
       "property-declaration"
     ],
-    "no-inferrable-types": true,
+    "no-inferrable-types": false,
     "use-default-type-parameter": true,
     "no-object-literal-type-assertion": true,
     "no-angle-bracket-type-assertion": true,
