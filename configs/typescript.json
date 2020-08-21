@@ -68,7 +68,7 @@
       "check-parameters"
     ],
     "no-unnecessary-initializer": true,
-    "no-implicit-dependencies": true,
+    "no-implicit-dependencies": false,
     "no-import-side-effect": [
       true,
       {
