@@ -33,7 +33,7 @@
     "prefer-method-signature": true,
     "interface-over-type-literal": true,
     "function-constructor": true,
-    "no-parameter-reassignment": true,
+    "no-parameter-reassignment": false,
     "return-undefined": true,
     "no-arg": true,
     "only-arrow-functions": true,
