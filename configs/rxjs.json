@@ -19,7 +19,7 @@
     "rxjs-pipeable-operators-only": true,
     "rxjs-no-static-observable-methods": true,
     "rxjs-proper-imports": true,
-    "rxjs-no-nested-subscribe": true,
+    "rxjs-no-nested-subscribe": false,
     "rxjs-no-subclass": { "severity": "error" },
     "rxjs-no-ignored-notifier": true,
     "rxjs-no-ignored-replay-buffer": true,
